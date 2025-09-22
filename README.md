@@ -48,7 +48,7 @@ Para obter uma **frase aleatória**, faça uma requisição **GET** para o segui
   "personagem": "Walter White",
   "poster": "https://m.media-amazon.com/images/M/MV5BYmQ4YWMxYjUtNjZmYi00MDQ1LWFjMjMtNjA5ZDdiYjdiODU5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_QL75_UX380_CR0,1,380,562_.jpg"
 }
-
+```
 ---
 
 📌 **Feito por DomCarlosAdriano** 🚀  
